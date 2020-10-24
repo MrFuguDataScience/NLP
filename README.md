@@ -13,3 +13,9 @@ nlp and pytorch repo: [code](https://github.com/graykode/nlp-tutorial)
 great resource links: [ML, NLP, loss functions etc:](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 
 `Notebooks:`
+
+**`NY Times`**
+
+
+
+**`Indeed Job Posts`**
