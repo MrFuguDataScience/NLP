@@ -14,7 +14,7 @@ great resource links: [ML, NLP, loss functions etc:](https://medium.com/machine-
 
 `Notebooks:`
 
-**`NY Times`:** These data are 
+**`NY Times`:** These data are used for the general NLP workflow and then processed to evaluate using `VADER` to check the feeling of the article (positive, negative or neutral). You can see that there is also a trend over a short period of time as. 
 
 
 
