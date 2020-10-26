@@ -14,8 +14,8 @@ great resource links: [ML, NLP, loss functions etc:](https://medium.com/machine-
 
 `Notebooks:`
 
-**`NY Times`**
+**`NY Times`:** These data are 
 
 
 
-**`Indeed Job Posts`**
+**`Indeed Job Posts`:** Parse job postings, location, state, job summary ,qulaifcations text. The qualifications portion which is used for the NLP, is the raw text from the posting. It is used in two parts: first it is compared against a list of words relating to relevant skils and generate a column in a data frame to evaluate what skills are used for each job. The second part is the common work flow for NLP, for these data and used in a word cloud.
